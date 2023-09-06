@@ -1,1 +1,1 @@
-# hotelbnb
+# Project of Hotel
